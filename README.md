@@ -11,7 +11,7 @@ Sistema de memória avançado implementado em VHDL para FPGA Xilinx Basys3. O pr
 
 ## 🎥 Demonstração
 
-[Vídeo de demonstração na Basys3](https://www.youtube.com/watch?v=jk29jMpe-4U)
+[Vídeo de demonstração na Basys3](https://www.youtube.com/shorts/gwM9WC6nlcg)
 
 ## 🏗️ Arquitetura
 
